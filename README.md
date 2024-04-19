@@ -2,13 +2,13 @@
 
 Fonte: https://www.youtube.com/watch?v=1fCX4MjAiCI&t=2223s
 
-# instalar GNU COBOL no WSL
+# Instalar GNU COBOL no WSL
 
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install gnucobol
 
-# compilar arquivo
+# Compilar arquivo
 
 > zsh do vscode
 > cobc -x -free PGEXE001.cbl
